@@ -1,0 +1,25 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# SQLite database (local student records)
+students.db
+*.db-journal
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+.DS_Store
